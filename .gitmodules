@@ -1,0 +1,3 @@
+[submodule "pmvs-prompt-forge"]
+	path = pmvs-prompt-forge
+	url = git@github.com:Discipuls/pmvs-prompt-forge.git
